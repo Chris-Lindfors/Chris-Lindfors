@@ -1,0 +1,235 @@
+#pic1 {
+    border: 0;
+}
+#pic2 {
+    float: right;
+    text-align: right;
+    justify-content: flex-start;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    margin-bottom: 2.5%;
+
+}
+#pic3 {
+    justify-content: right;
+    text-align: right;
+    margin-left: 2.5%;
+}
+#pic4 {
+    float: left;
+    justify-content: left;
+    text-align: left;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+#whyme {
+    display: flow-root;
+}
+#hdl2 {
+     color :black;
+     font-size: 65px;
+     -webkit-text-stroke-width: .05px;
+        -webkit-text-stroke-color: #b08f21;
+    font-family: "Graduate", serif;
+    font-weight: bold;
+    text-align: center;
+}
+#tagl1 {
+    font-family: "verdana", sans-serif;
+    color :white;
+}
+#tagl2 {
+    font-size: 20px;
+    color: #b08f21;
+}
+#bzwrd1 {
+    font-family: "verdana", sans-serif;
+    color :#b08f21;
+}
+#bzwrd2 {
+    font-family: "verdana", sans-serif;
+    color :#b08f21;
+}
+#bzwrd3 {
+    font-family: "verdana", sans-serif;
+    color :#b08f21;
+}
+#bzwrd4 {
+    font-family: "verdana", sans-serif;
+    color :#b08f21;
+}
+#bzwrd5 {
+    font-family: "verdana", sans-serif;
+    color :#b08f21;
+}
+#bzwrd6 {
+    font-family: "verdana", sans-serif;
+    color :#b08f21;
+}
+#bzwrd7 {
+    font-family: "verdana", sans-serif;
+    color :#b08f21;
+}
+#bzwrd8 {
+    font-family: "verdana", sans-serif;
+    color :#b08f21;
+}
+#bzwrd9 {
+    font-family: "verdana", sans-serif;
+    color :#b08f21;
+}
+#hdl3 {
+    color :black;
+    font-size: 50px;
+    -webkit-text-stroke-width: .05px;
+    -webkit-text-stroke-color: #b08f21;
+    font-family: "Graduate", serif;
+    text-align: center;
+}
+#hdl4 {
+    color :black;
+    font-size: 50px;
+    -webkit-text-stroke-width: .05px;
+    -webkit-text-stroke-color: #b08f21;
+    font-family: "Graduate", serif;
+    text-align: center;
+}
+#hdl5 {
+    color :black;
+    font-size: 50px;
+    -webkit-text-stroke-width: .05px;
+    -webkit-text-stroke-color: #b08f21;
+    font-family: "Graduate", serif;
+    text-align: center;
+}
+#hdl6 {
+    color :black;
+    font-size: 50px;
+    -webkit-text-stroke-width: .05px;
+    -webkit-text-stroke-color: #b08f21;
+    font-family: "Graduate", serif;
+    text-align: center;
+}
+#p1 {
+    color :white;
+    font-family: "verdana", sans-serif;
+}
+#p2 {
+    color :white;
+    font-family: "verdana", sans-serif;
+}
+#p3 {
+    color :black;
+    font-family: "verdana", sans-serif;
+}
+#p4 {
+    color :black;
+    font-family: "verdana", sans-serif;
+}
+#p5 {
+    color :black;
+    font-family: "verdana", sans-serif;
+}
+#p6 {
+    color :black;
+    font-family: "verdana", sans-serif;
+}
+#p7 {
+    color :black;
+    font-family: "verdana", sans-serif;
+}
+#list1 {
+    color :black;
+    font-family: "verdana", sans-serif;
+}
+#list2 {
+    color :black;
+    font-family: "verdana", sans-serif;
+}
+#list3 {
+    color :black;
+    font-family: "verdana", sans-serif;
+}
+#list4 {
+    color :black;
+    font-family: "verdana", sans-serif;
+}
+#list5 {
+    color :black;
+    font-family: "verdana", sans-serif;
+}
+#list6 {
+    color :black;
+    font-family: "verdana", sans-serif;
+}
+#socials {
+    text-align: center;
+}
+#socials a{
+    text-decoration: none;
+    margin-right: 5px;
+}
+#icon1:hover {
+    opacity: 0.5;
+}
+#icon2:hover {
+    opacity: 0.5;
+}
+#icon3:hover {
+    opacity: 0.5;
+}
+#icon4:hover {
+    opacity: 0.5;
+}
+#icon5:hover {
+    opacity: 0.5;
+}
+#icon6:hover {
+    opacity: 0.5;
+}
+#icon7:hover {
+    opacity: 0.5;
+}
+#icon8:hover {
+    opacity: 0.5;
+}
+#icon9:hover {
+    opacity: 0.5;
+}
+#icon10:hover {
+    opacity: 0.5;
+}
+#icon11:hover {
+    opacity: 0.5;
+}
+#icon12:hover {
+    opacity: 0.5;
+}
+.box {
+    justify-content: center;
+    width: 250px;
+    height: 300px;
+    background-color: rgb(189, 189, 196);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    text-align: left;
+}
+#servlist1 {
+    justify-content: space-around;
+    display: flex;
+}
+#servlist2 {
+    justify-content: space-around;
+    display: flex;
+}
+
+/* <!--DEFINITIONS
+    hdl(x)=Headline X
+    aitem(x)=Action Item X
+    tagl(x)=Tag Line X
+    bx(x)=Box X
+    pic(x)=Image X
+    gcal= Google Calendar
+    list(x)=Unordered List X
+    --> */
