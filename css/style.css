@@ -225,10 +225,14 @@
 #servlist1 {
     justify-content: space-around;
     display: flex;
+    flex: 1;
+    flex-wrap: wrap;
 }
 #servlist2 {
     justify-content: space-around;
     display: flex;
+    flex: 1;
+    flex-wrap: wrap;
 }
 
 /* <!--DEFINITIONS
