@@ -227,12 +227,16 @@
     display: flex;
     flex: 1;
     flex-wrap: wrap;
+    min-width: 0;
+    max-width: 100%;
 }
 #servlist2 {
     justify-content: space-around;
     display: flex;
     flex: 1;
     flex-wrap: wrap;
+    min-width: 0;
+    max-width: 100%;    
 }
 
 /* <!--DEFINITIONS
